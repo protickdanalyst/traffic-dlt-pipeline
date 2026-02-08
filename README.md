@@ -122,9 +122,3 @@ Enable accurate, performant analytics without hidden data duplication risks.
 ## 📎 Notes
 This project intentionally avoids unsafe assumptions (e.g., forcing `road_id` joins where the source data does not support them).  
 All modeling decisions prioritize **data correctness over convenience**.
-
----
-
-## 👤 Author
-**Data Engineer**  
-Specializing in scalable data pipelines, streaming systems, and analytics platforms.
